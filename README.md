@@ -1,0 +1,2 @@
+# TeneBot
+A bot made by Tene#3343 &amp; HenOr#5839 and inspired by the game "Yom Patu'a(c)h" (Open Day) By Rafael Ben-Ari. In this game there is a speaking bourekas, computers (etc.) but the real thing is "Cholo", or maybe known as "The Plastic Chair Fight". This is a discord bot, that can allow you do Cholo with friends or single, and even see if you're a real speaking bourekas. This bot is open-source but all the rights reserve to HenOr, Tene, Rafael.
